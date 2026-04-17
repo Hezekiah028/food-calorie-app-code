@@ -1,0 +1,135 @@
+{
+  "_comment": "第一版校准表：核心字段为 kcal_per_100g + portion_grams_s/m/l（S/M/L模式推荐）以及 thickness_cm/density_g_per_cm3（体积模式）。*_range 仅供人工校准参考，不参与程序计算。",
+  "carrot_eggs": {
+    "kcal_per_100g": 145,
+    "portion_grams_s": 120,
+    "portion_grams_m": 180,
+    "portion_grams_l": 250,
+    "kcal_per_100g_range": [120, 180],
+    "thickness_cm": 1.8,
+    "thickness_cm_range": [1.2, 2.4],
+    "density_g_per_cm3": 0.72,
+    "density_g_per_cm3_range": [0.62, 0.82]
+  },
+  "chicken_nuggets": {
+    "kcal_per_100g": 296,
+    "portion_grams_s": 90,
+    "portion_grams_m": 150,
+    "portion_grams_l": 220,
+    "kcal_per_100g_range": [260, 330],
+    "thickness_cm": 2.4,
+    "thickness_cm_range": [1.8, 3.2],
+    "density_g_per_cm3": 0.86,
+    "density_g_per_cm3_range": [0.75, 0.95]
+  },
+  "chinese_cabbage": {
+    "kcal_per_100g": 25,
+    "portion_grams_s": 120,
+    "portion_grams_m": 220,
+    "portion_grams_l": 320,
+    "kcal_per_100g_range": [18, 35],
+    "thickness_cm": 2.6,
+    "thickness_cm_range": [1.8, 3.5],
+    "density_g_per_cm3": 0.33,
+    "density_g_per_cm3_range": [0.25, 0.45]
+  },
+  "chinese_sausage": {
+    "kcal_per_100g": 508,
+    "portion_grams_s": 35,
+    "portion_grams_m": 60,
+    "portion_grams_l": 90,
+    "kcal_per_100g_range": [430, 560],
+    "thickness_cm": 1.7,
+    "thickness_cm_range": [1.2, 2.2],
+    "density_g_per_cm3": 0.96,
+    "density_g_per_cm3_range": [0.88, 1.08]
+  },
+  "curry": {
+    "kcal_per_100g": 140,
+    "portion_grams_s": 150,
+    "portion_grams_m": 250,
+    "portion_grams_l": 360,
+    "kcal_per_100g_range": [100, 200],
+    "thickness_cm": 2.2,
+    "thickness_cm_range": [1.5, 3.2],
+    "density_g_per_cm3": 0.78,
+    "density_g_per_cm3_range": [0.65, 0.95]
+  },
+  "fried_chicken": {
+    "kcal_per_100g": 250,
+    "portion_grams_s": 100,
+    "portion_grams_m": 180,
+    "portion_grams_l": 280,
+    "kcal_per_100g_range": [220, 320],
+    "thickness_cm": 2.8,
+    "thickness_cm_range": [2.0, 4.0],
+    "density_g_per_cm3": 0.89,
+    "density_g_per_cm3_range": [0.76, 1.02]
+  },
+  "fried_dumplings": {
+    "kcal_per_100g": 268,
+    "portion_grams_s": 90,
+    "portion_grams_m": 150,
+    "portion_grams_l": 230,
+    "kcal_per_100g_range": [220, 320],
+    "thickness_cm": 2.0,
+    "thickness_cm_range": [1.5, 2.8],
+    "density_g_per_cm3": 0.80,
+    "density_g_per_cm3_range": [0.68, 0.95]
+  },
+  "fried_eggs": {
+    "kcal_per_100g": 196,
+    "portion_grams_s": 60,
+    "portion_grams_m": 100,
+    "portion_grams_l": 150,
+    "kcal_per_100g_range": [170, 230],
+    "thickness_cm": 1.4,
+    "thickness_cm_range": [1.0, 2.0],
+    "density_g_per_cm3": 0.91,
+    "density_g_per_cm3_range": [0.82, 1.02]
+  },
+  "mung_bean_sprouts": {
+    "kcal_per_100g": 31,
+    "portion_grams_s": 100,
+    "portion_grams_m": 180,
+    "portion_grams_l": 260,
+    "kcal_per_100g_range": [20, 45],
+    "thickness_cm": 2.3,
+    "thickness_cm_range": [1.5, 3.3],
+    "density_g_per_cm3": 0.38,
+    "density_g_per_cm3_range": [0.28, 0.52]
+  },
+  "rice": {
+    "kcal_per_100g": 130,
+    "portion_grams_s": 120,
+    "portion_grams_m": 180,
+    "portion_grams_l": 260,
+    "kcal_per_100g_range": [115, 150],
+    "thickness_cm": 2.4,
+    "thickness_cm_range": [1.8, 3.2],
+    "density_g_per_cm3": 0.56,
+    "density_g_per_cm3_range": [0.45, 0.70]
+  },
+  "triangle_hash_brown": {
+    "kcal_per_100g": 192,
+    "portion_grams_s": 70,
+    "portion_grams_m": 120,
+    "portion_grams_l": 180,
+    "kcal_per_100g_range": [160, 240],
+    "thickness_cm": 1.9,
+    "thickness_cm_range": [1.2, 2.8],
+    "density_g_per_cm3": 0.66,
+    "density_g_per_cm3_range": [0.52, 0.82]
+  },
+  "water_spinach": {
+    "kcal_per_100g": 24,
+    "portion_grams_s": 120,
+    "portion_grams_m": 220,
+    "portion_grams_l": 320,
+    "kcal_per_100g_range": [15, 35],
+    "thickness_cm": 2.7,
+    "thickness_cm_range": [1.8, 3.8],
+    "density_g_per_cm3": 0.35,
+    "density_g_per_cm3_range": [0.25, 0.48]
+  }
+}
